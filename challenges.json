@@ -1,0 +1,106 @@
+{
+  "challenges": [
+    {
+      "id": "2025-08-19",
+      "date": "2025-08-19",
+      "name": "Lionel Messi",
+        "nationality": [
+            "Argentina"
+        ],
+        "positions": [
+            "forward"
+        ],
+        "career": [
+            {
+                "team": "Newell's Old Boys",
+                "start": "1995",
+                "end": "2000",
+                "apps": 176,
+                "goals": 234,
+                "is_loan": false,
+                "loan_from": null
+            },
+            {
+                "team": "FC Barcelona C",
+                "start": "2003",
+                "end": "2004",
+                "apps": 10,
+                "goals": 5,
+                "is_loan": false,
+                "loan_from": null
+            },
+            {
+                "team": "FC Barcelona Juvenil A",
+                "start": "2003",
+                "end": "2004",
+                "apps": 21,
+                "goals": 31,
+                "is_loan": false,
+                "loan_from": null
+            },
+            {
+                "team": "FC Barcelona Atlètic",
+                "start": "2004",
+                "end": "2005",
+                "apps": 22,
+                "goals": 6,
+                "is_loan": false,
+                "loan_from": null
+            },
+            {
+                "team": "Argentina national under-20 football team",
+                "start": "2004",
+                "end": "2005",
+                "apps": 18,
+                "goals": 14,
+                "is_loan": false,
+                "loan_from": null
+            },
+            {
+                "team": "FC Barcelona",
+                "start": "2004",
+                "end": "2021",
+                "apps": 520,
+                "goals": 474,
+                "is_loan": false,
+                "loan_from": null
+            },
+            {
+                "team": "Argentina men's national association football team",
+                "start": "2005",
+                "end": null,
+                "apps": 193,
+                "goals": 112,
+                "is_loan": false,
+                "loan_from": null
+            },
+            {
+                "team": "Argentina national under-23 football team",
+                "start": "2008",
+                "end": "2008",
+                "apps": 5,
+                "goals": 2,
+                "is_loan": false,
+                "loan_from": null
+            },
+            {
+                "team": "Paris Saint-Germain FC",
+                "start": "2021",
+                "end": "2023",
+                "apps": 58,
+                "goals": 22,
+                "is_loan": false,
+                "loan_from": null
+            },
+            {
+                "team": "Inter Miami CF",
+                "start": "2023",
+                "end": null,
+                "apps": 43,
+                "goals": 39,
+                "is_loan": false,
+                "loan_from": null
+            }
+        ]
+    },]
+}
