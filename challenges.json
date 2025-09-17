@@ -102,6 +102,246 @@
                 "loan_from": null
             }
         ]
-    }]
+    },
+    {
+      "id": "2025-09-17",
+      "date": "2025-09-17",
+    "name": "Iker Casillas",
+    "nationality": [
+        "Spain"
+    ],
+    "positions": [
+        "Goalkeeper"
+    ],
+    "career": [
+        {
+            "team": "Real Madrid C",
+            "start": "1998",
+            "end": "1999",
+            "apps": 27,
+            "goals": 0,
+            "is_loan": false
+        },
+        {
+            "team": "Real Madrid B",
+            "start": "1999",
+            "end": "2000",
+            "apps": 4,
+            "goals": 0,
+            "is_loan": false
+        },
+        {
+            "team": "Real Madrid",
+            "start": "1999",
+            "end": "2015",
+            "apps": 510,
+            "goals": 0,
+            "is_loan": false
+        },
+        {
+            "team": "Porto",
+            "start": "2015",
+            "end": "2020",
+            "apps": 116,
+            "goals": 0,
+            "is_loan": false
+        }
+    ]
+},
+{
+  "id": "2025-09-18",
+      "date": "2025-09-18",
+    "name": "Dimitar Berbatov",
+    "nationality": [
+        "Bulgaria"
+    ],
+    "positions": [
+        "Striker"
+    ],
+    "career": [
+        {
+            "team": "CSKA Sofia",
+            "start": "1998",
+            "end": "2001",
+            "apps": 50,
+            "goals": 26,
+            "is_loan": false
+        },
+        {
+            "team": "Bayer Leverkusen II",
+            "start": "2001",
+            "end": "2001",
+            "apps": 7,
+            "goals": 6,
+            "is_loan": false
+        },
+        {
+            "team": "Bayer Leverkusen",
+            "start": "2001",
+            "end": "2006",
+            "apps": 154,
+            "goals": 69,
+            "is_loan": false
+        },
+        {
+            "team": "Tottenham Hotspur",
+            "start": "2006",
+            "end": "2008",
+            "apps": 70,
+            "goals": 27,
+            "is_loan": false
+        },
+        {
+            "team": "Manchester United",
+            "start": "2008",
+            "end": "2012",
+            "apps": 108,
+            "goals": 48,
+            "is_loan": false
+        },
+        {
+            "team": "Fulham",
+            "start": "2012",
+            "end": "2014",
+            "apps": 51,
+            "goals": 19,
+            "is_loan": false
+        },
+        {
+            "team": "Monaco",
+            "start": "2014",
+            "end": "2015",
+            "apps": 38,
+            "goals": 13,
+            "is_loan": false
+        },
+        {
+            "team": "PAOK",
+            "start": "2015",
+            "end": "2016",
+            "apps": 17,
+            "goals": 4,
+            "is_loan": false
+        },
+        {
+            "team": "Kerala Blasters",
+            "start": "2017",
+            "end": "2018",
+            "apps": 9,
+            "goals": 1,
+            "is_loan": false
+        }
+    ]
+},
+{
+  "id": "2025-09-19",
+      "date": "2025-09-19",
+    "name": "Arshavin",
+    "nationality": [
+        "Russia"
+    ],
+    "positions": [
+        "Winger",
+        "Attacking midfielder"
+    ],
+    "career": [
+        {
+            "team": "Zenit Saint Petersburg",
+            "start": "1999",
+            "end": "2008",
+            "apps": 238,
+            "goals": 51,
+            "is_loan": false
+        },
+        {
+            "team": "Zenit-2 St. Petersburg",
+            "start": "1999",
+            "end": "2000",
+            "apps": 56,
+            "goals": 7,
+            "is_loan": true
+        },
+        {
+            "team": "Arsenal",
+            "start": "2009",
+            "end": "2013",
+            "apps": 105,
+            "goals": 23,
+            "is_loan": false
+        },
+        {
+            "team": "Zenit Saint Petersburg",
+            "start": "2012",
+            "end": "2012",
+            "apps": 10,
+            "goals": 3,
+            "is_loan": true
+        },
+        {
+            "team": "Zenit Saint Petersburg",
+            "start": "2013",
+            "end": "2015",
+            "apps": 35,
+            "goals": 3,
+            "is_loan": false
+        },
+        {
+            "team": "Kuban Krasnodar",
+            "start": "2015",
+            "end": "2015",
+            "apps": 8,
+            "goals": 0,
+            "is_loan": false
+        },
+        {
+            "team": "Kairat",
+            "start": "2016",
+            "end": "2018",
+            "apps": 84,
+            "goals": 24,
+            "is_loan": false
+        }
+    ]
+},
+{
+  "id": "2025-09-20",
+      "date": "2025-09-20",
+    "name": "Philipp Lahm",
+    "nationality": [
+        "Germany"
+    ],
+    "positions": [
+        "Right-back",
+        "left-back"
+    ],
+    "career": [
+        {
+            "team": "Bayern Munich II",
+            "start": "2001",
+            "end": "2003",
+            "apps": 63,
+            "goals": 3,
+            "is_loan": false
+        },
+        {
+            "team": "Bayern Munich",
+            "start": "2002",
+            "end": "2017",
+            "apps": 332,
+            "goals": 12,
+            "is_loan": false
+        },
+        {
+            "team": "VfB Stuttgart",
+            "start": "2003",
+            "end": "2005",
+            "apps": 53,
+            "goals": 2,
+            "is_loan": true
+        }
+    ]
+},
+  ]
 
 }
+
